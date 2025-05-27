@@ -1,94 +1,103 @@
 {
   "result": [
     {
-      "no": "16",
-      "name": "Mike Maignan",
-      "birth_date": "1995-07-03",
+      "no": "1",
+      "name": "Alex Meret",
+      "birth_date": "1997-03-22",
       "Position": "Goalkeeper",
-      "International": "France",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/666e97bb-0227-4077-a96c-c553931cb22b/Maignan-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Italy",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/MERET.png"
     },
     {
-      "no": "24",
-      "name": "Alessandro Florenzi",
-      "birth_date": "1991-03-11",
+      "no": "13",
+      "name": "Amir Rrahmani",
+      "birth_date": "1994-02-24",
+      "Position": "Defender",
+      "International": "Kosovo",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/RRAHMANI.png"
+    },
+    {
+      "no": "22",
+      "name": "Giovanni Di Lorenzo",
+      "birth_date": "1993-08-04",
       "Position": "Defender",
       "International": "Italy",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/b579a585-4a38-41be-8c0f-342afe5d2d29/Florenzi-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/09/DI-LORENZO.png"
     },
     {
-      "no": "19",
-      "name": "Theo Hernández",
-      "birth_date": "1997-10-06",
+      "no": "5",
+      "name": "Juan Jesus",
+      "birth_date": "1991-06-10",
       "Position": "Defender",
-      "International": "France",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/12daf100-2931-4851-a437-a1707ec03a0c/TheoHernandez-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Brazil",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/JUAN-JESUS.png"
     },
     {
-      "no": "23",
-      "name": "Fikayo Tomori",
-      "birth_date": "1997-12-19",
-      "Position": "Defender",
-      "International": "England",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/cbe97042-4d71-4e72-81b7-4925315d0c32/Tomori-Large.png?w=220&h=undefined&dpr=2&auto=format"
-    },
-    {
-      "no": "14",
-      "name": "Tijjani Reijnders",
-      "birth_date": "1998-07-29",
+      "no": "68",
+      "name": "Stanislav Lobotka",
+      "birth_date": "1994-11-25",
       "Position": "Midfielder",
-      "International": "Netherlands",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/3598fc37-4834-4dcb-813f-e9522fec0def/Reijnders-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Slovakia",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/LOBOTKA.png"
     },
     {
-      "no": "80",
-      "name": "Yunus Musah",
-      "birth_date": "2000-07-29",
+      "no": "7",
+      "name": "David Neres",
+      "birth_date": "1997-03-03",
       "Position": "Midfielder",
-      "International": "France",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/4b7023f0-63b6-4947-94f7-3c78b1975ba8/Musah-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Brazil",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/09/Neres-2.png"
     },
     {
-      "no": "10",
-      "name": "Rafael Leão",
-      "birth_date": "1999-06-10",
-      "Position": "Forward",
-      "International": "Portugal",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/34e66e33-7612-4995-bb7e-e51f5e6e2ecb/Leao-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "no": "99",
+      "name": "Frank Anguissa",
+      "birth_date": "1995-11-16",
+      "Position": "Midfielder",
+      "International": "Cameroon",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/ANGUISSA.png"
     },
     {
-      "no": "9",
-      "name": "Luka Jovic",
-      "birth_date": "1986-09-30",
+      "no": "77",
+      "name": "Khvicha Kvaratskhelia",
+      "birth_date": "2001-02-12",
       "Position": "Forward",
-      "International": "France",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/e6b0f13d-0922-47b7-9146-2def3a1bffa9/Jovic-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Georgia",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/12/kvara-POTM-1.png"
     },
     {
-      "no": "11",
-      "name": "Christian Pulisic",
-      "birth_date": "1998-09-18",
+      "no": "90",
+      "name": "Romelu Lukaku",
+      "birth_date": "1993-05-13",
       "Position": "Forward",
-      "International": "USA",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/30fd1048-ce6d-4295-a02e-9db2f631382a/Pulisic-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Belgium",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/09/lukaku.png"
     },
     {
-      "no": "79",
-      "name": "Joao Felix",
-      "birth_date": "1999-11-10",
+      "no": "21",
+      "name": "Matteo Politano",
+      "birth_date": "1993-08-03",
       "Position": "Forward",
-      "International": "Portugal",
-      "Team": "AC Milan",
-      "Poster": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/0bbe8a49-4683-4f8a-b643-14f469cf9a91/Felix-Large.png?w=220&h=undefined&dpr=2&auto=format"
+      "International": "Italy",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/POLITANO.png"
+    },
+    {
+      "no": "81",
+      "name": "Giacomo Raspadori",
+      "birth_date": "2000-02-18",
+      "Position": "Forward",
+      "International": "Italy",
+      "Team": "Napoli",
+      "Poster": "https://cdn.sscnapoli.it/wp-content/uploads/2024/08/RASPADORI.png"
     }
   ]
 }
